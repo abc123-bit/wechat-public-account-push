@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "aa9184227312a0173ab7243feb7b7249",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "n8Xbibzl5LKIGGDNhA8mSdH-FKaXgnpl6leMHISRKjk",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oO95X6xNiVFJiS0JNArFcXZhswEA"],
      
@@ -43,7 +43,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。一半在土里安详，一半在风里飞扬，一半洒落阴凉，一半沐浴阳光，非常沉默非常骄傲，从不依靠 从不寻找。"
+    LITERARY_PREFERENCE: "如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。"
 
 
     }
