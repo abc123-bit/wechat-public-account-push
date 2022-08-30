@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wx085d7f62d80a4890",
+    APP_ID: "",
     // 公众号APP_SECRET
-    APP_SECRET: "aa9184227312a0173ab7243feb7b7249",
+    APP_SECRET: "",
     // 模板消息id
-    TEMPLATE_ID: "qGHVBFaRIdi-74N2yDiK0ifDLdcPgtnPrjq9odbAbQI",
+    TEMPLATE_ID: "",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["oO95X6xNiVFJiS0JNArFcXZhswEA"],
+    USERS: [""],
      
     /**
      * 信息配置
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广西",
+    PROVINCE: "广东",
     // 所在城市
-    CITY: "梧州",
+    CITY: "惠州",
 
     /** 重要节日相关 */
 
