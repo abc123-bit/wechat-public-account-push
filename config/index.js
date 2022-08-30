@@ -30,7 +30,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2016-06-09",
+    LOVE_DATE:"2016-06-09",
         
 
 
