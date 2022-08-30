@@ -1,7 +1,4 @@
 export const config = {
-    /**
-     * 公众号配置
-     */
 
     // 公众号APP_ID
     APP_ID: "wx085d7f62d80a4890",
