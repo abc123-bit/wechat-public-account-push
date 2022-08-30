@@ -41,18 +41,18 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "哈喽宝贝，又是爱你的一天哦~"
 
 
     }
 
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
-// 天气：{{weather.DATA}}  
+// 天气：{{weather.DATA}} 
+// 距离宝贝的生日还有：{{BIRTHDAYS.DATA}}
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 距离莹莹的生日还有{{BIRTHDAYS.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
