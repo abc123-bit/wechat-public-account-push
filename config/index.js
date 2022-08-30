@@ -24,7 +24,7 @@ export const config = {
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
-      {"name": "莹莹", "year": "2001", "date": "06-26","type":"new"},
+      {"name": "莹莹", "year": "2001", "date": "06-26"},
       
 
     /** 日期相关 */
